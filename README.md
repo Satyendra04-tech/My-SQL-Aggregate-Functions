@@ -50,4 +50,6 @@ SELECT ROUND (AVG(replacement_cost), 2) FROM T1 ;
 4. Find SUM of replacement cost  
 ``` 
 SELECT SUM(replacement_cost) FROM T1 ;
-``` 
+```  
+
+## That's it for the Aggregate functions, see you in the next chapter !!
